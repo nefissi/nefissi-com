@@ -116,9 +116,9 @@ const PERSONAS = {
       badge: "Vue hybride 360° · Ingénierie Cloud, DevSecOps & Scrum Master",
       role: "Ingénieur DevSecOps, Cloud AWS/Azure & Scrum Master SAFe",
       summary:
-        "Ingénieur informatique INSA Lyon avec 16 ans d'expérience auprès de grands comptes (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Double compétence combinant développement Python/SQL, automatisation Cloud AWS & Azure (Terraform, CloudFormation, CI/CD) et pilotage Agile d'équipes internationales jusqu'à 14 personnes.",
+        "Ingénieur informatique INSA Lyon avec 13 ans d'expérience auprès de grands comptes (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Double compétence combinant développement Python/SQL, automatisation Cloud AWS & Azure (Terraform, CloudFormation, CI/CD) et pilotage Agile d'équipes internationales jusqu'à 14 personnes.",
       kpis: [
-        { value: "16 ans", label: "Expérience grands comptes", sub: "Banque, Assurance, Télécoms, Énergie" },
+        { value: "13 ans", label: "Expérience grands comptes", sub: "Banque, Assurance, Télécoms, Énergie" },
         { value: "+1 000", label: "Comptes AWS & Azure", sub: "Gouvernance & sécurité chez Société Générale" },
         { value: "14 pers.", label: "Équipe France – Inde", sub: "Scrum Master & Lead SAFe anglophone" },
         { value: "30 → 80 %", label: "Couverture de tests", sub: "Pytest & SonarQube chez BNP Paribas Manaos" }
@@ -128,9 +128,9 @@ const PERSONAS = {
       badge: "360° Hybrid View · Cloud Engineering, DevSecOps & Scrum Master",
       role: "DevSecOps Engineer, AWS/Azure Cloud & SAFe Scrum Master",
       summary:
-        "INSA Lyon Computer Science Engineer with 16 years of enterprise experience (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Bridges hands-on Python/SQL engineering, AWS & Azure Cloud automation (Terraform, CloudFormation, CI/CD), and Agile leadership across distributed teams of up to 14 members.",
+        "INSA Lyon Computer Science Engineer with 13 years of enterprise experience (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Bridges hands-on Python/SQL engineering, AWS & Azure Cloud automation (Terraform, CloudFormation, CI/CD), and Agile leadership across distributed teams of up to 14 members.",
       kpis: [
-        { value: "16 yrs", label: "Enterprise Experience", sub: "Banking, Insurance, Telecom, Energy" },
+        { value: "13 yrs", label: "Enterprise Experience", sub: "Banking, Insurance, Telecom, Energy" },
         { value: "1,000+", label: "AWS & Azure Accounts", sub: "Cloud security governance at Société Générale" },
         { value: "14 ppl", label: "France – India Team", sub: "English-speaking SAFe Scrum Master & Lead" },
         { value: "30 → 80%", label: "Test Coverage Boost", sub: "Pytest & SonarQube at BNP Paribas Manaos" }
