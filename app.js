@@ -113,10 +113,10 @@ const PERSONAS = {
   all: {
     priorityDomains: ["aws", "iac", "secops", "agile", "python", "cicd"],
     fr: {
-      badge: "Vue hybride 360° · Ingénierie Cloud, DevSecOps & Scrum Master",
-      role: "Ingénieur DevSecOps, Cloud AWS/Azure & Scrum Master SAFe",
+      badge: "Vue hybride 360° · Ingénieur Dev Python, DevSecOps & Scrum Master",
+      role: "Ingénieur Dev Python, DevSecOps, Cloud AWS/Azure & Scrum Master SAFe",
       summary:
-        "Ingénieur informatique INSA Lyon avec 13 ans d'expérience auprès de grands comptes (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Double compétence combinant développement Python/SQL, automatisation Cloud AWS & Azure (Terraform, CloudFormation, CI/CD) et pilotage Agile d'équipes internationales jusqu'à 14 personnes.",
+        "Ingénieur informatique avec 13 ans d'expérience auprès de grands comptes (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Double compétence combinant développement Python/SQL, automatisation Cloud AWS & Azure (Terraform, CloudFormation, CI/CD) et pilotage Agile d'équipes internationales jusqu'à 14 personnes.",
       kpis: [
         { value: "13 ans", label: "Expérience grands comptes", sub: "Banque, Assurance, Télécoms, Énergie" },
         { value: "+1 000", label: "Comptes AWS & Azure", sub: "Gouvernance & sécurité chez Société Générale" },
@@ -125,10 +125,10 @@ const PERSONAS = {
       ]
     },
     en: {
-      badge: "360° Hybrid View · Cloud Engineering, DevSecOps & Scrum Master",
-      role: "DevSecOps Engineer, AWS/Azure Cloud & SAFe Scrum Master",
+      badge: "360° Hybrid View · Dev Python, DevSecOps & Scrum Master",
+      role: "Dev Python Engineer, DevSecOps, AWS/Azure Cloud & SAFe Scrum Master",
       summary:
-        "INSA Lyon Computer Science Engineer with 13 years of enterprise experience (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Bridges hands-on Python/SQL engineering, AWS & Azure Cloud automation (Terraform, CloudFormation, CI/CD), and Agile leadership across distributed teams of up to 14 members.",
+        "Computer Science Engineer with 13 years of enterprise experience (Société Générale, AXA, BNP Paribas, Bouygues Telecom, Veolia). Bridges hands-on Python/SQL engineering, AWS & Azure Cloud automation (Terraform, CloudFormation, CI/CD), and Agile leadership across distributed teams of up to 14 members.",
       kpis: [
         { value: "13 yrs", label: "Enterprise Experience", sub: "Banking, Insurance, Telecom, Energy" },
         { value: "1,000+", label: "AWS & Azure Accounts", sub: "Cloud security governance at Société Générale" },
@@ -141,7 +141,7 @@ const PERSONAS = {
     priorityDomains: ["aws", "iac", "cicd", "python", "prod", "quality"],
     fr: {
       badge: "Profil ciblé · Cloud Architect, IaC & Plateforme DevOps",
-      role: "Ingénieur Cloud AWS & DevOps — Terraform, CloudFormation & CI/CD",
+      role: "Ingénieur Dev Cloud AWS & DevOps — Terraform, CloudFormation & CI/CD",
       summary:
         "Spécialiste de la construction de fondations Cloud multi-comptes et multi-régions (Landing Zone AWS, Account Vending Machine, Service Catalog) et de l'automatisation des chaînes de déploiement (GitHub Actions, GitLab CI, CircleCI, Terraform Enterprise, Python serverless).",
       kpis: [
